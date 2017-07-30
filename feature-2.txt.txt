@@ -1,1 +1,1 @@
-dong text nay duoc them tu feature-1
+dong text nay da duoc merge by master root
